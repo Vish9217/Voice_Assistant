@@ -55,7 +55,7 @@ def run_future_wife():
         
         
     elif'give' in command :
-        g='Fuck You Sarang'
+        g='God bless You !'
         talk(g)
 
 run_future_wife()
