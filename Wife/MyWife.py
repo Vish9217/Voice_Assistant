@@ -36,7 +36,7 @@ def run_future_wife():
         time=datetime.datetime.now().strftime('%I:%M %p')
         talk('current time is '+time)
     elif 'how' in command:
-        h='I am fine How are you ?'
+        h='I am fine ... How are you ?'
         talk(h)
         run_future_wife()
     elif 'fine' in command:
