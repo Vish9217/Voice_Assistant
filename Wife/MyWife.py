@@ -50,7 +50,7 @@ def run_future_wife():
         v='Yes tell me i  am  hear to listen you only '
         talk(v)
     elif'marry' in command :
-        m='First get a better job And then Ask'
+        m='Yes I am Ready !!!!!'
         talk(m)
         
         
